@@ -1,4 +1,4 @@
-﻿package com.yf;
+package com.yf;
 
 /**
  * @author ：author
@@ -9,6 +9,10 @@
  */
 public class Application {
     public static void main(String[] args) {
-        System.out.println("success121212TTTTT444444444");
+
+        System.out.println("success1");
+        System.out.println("success2");
+        System.out.println("success3");
+        System.out.println("success4");
     }
 }
